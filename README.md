@@ -38,7 +38,9 @@ Once both the backend and frontend servers are running, you can interact with th
 - You should see a simple UI with WebSocket connection status.
 - Interact with the UI to send and receive WebSocket messages.
 
-## Folder Structure
+## Folder Structure![Screenshot 2024-02-10 224404](https://github.com/SairajGulve09/Bit-to-Bit/assets/130494632/0619bb09-113f-4500-ab4a-8e23f4b917ee)
+![Screenshot 2024-02-10 224348](https://github.com/SairajGulve09/Bit-to-Bit/assets/130494632/c196926a-311a-44d0-ba83-1aa2e0c424ad)
+
 
 - **backend**: Contains the Spring Boot backend code.
 - **frontend**: Contains the React frontend code.
