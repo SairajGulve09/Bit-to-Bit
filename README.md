@@ -1,4 +1,4 @@
-# Bit-to-Bit
+# Byte-to-Byte
 
 This project is a simple demonstration of WebSocket communication between a React frontend and a Spring Boot backend.
 
